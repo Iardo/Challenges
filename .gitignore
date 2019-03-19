@@ -1,1 +1,7 @@
-/node_modules
+# ignore these folders:
+/.vscode/**
+/node_modules/**
+
+# ignore these files:
+/_todo.todo
+/package-lock.json
